@@ -20,9 +20,7 @@ Este projeto tem como objetivo desenvolver um modelo de **Regressão Logística*
 
 ## Tecnologias
 
-- **Python** → análise e manipulação de dados com Pandas, NumPy e visualizações com Matplotlib/Seaborn.  
-- **SQL** → consultas para extração e organização dos dados.  
-- **Power BI** → dashboards interativos para explorar os resultados.  
+- **Python** → análise e manipulação de dados com Pandas, NumPy e visualizações com Matplotlib/Seaborn.   
 - **Jupyter Notebook** → ambiente para organizar código e análises passo a passo.  
 - **Excel** → base de dados utilizada no projeto.  
 

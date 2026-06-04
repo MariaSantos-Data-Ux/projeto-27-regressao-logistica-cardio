@@ -20,9 +20,7 @@ Este projeto tem como objetivo desenvolver um modelo de **Regressão Logística*
 
 ## Tecnologias
 
-- **Python** → análise e manipulação de dados com Pandas, NumPy e visualizações com Matplotlib/Seaborn.  
-- **SQL** → consultas para extração e organização dos dados.  
-- **Power BI** → dashboards interativos para explorar os resultados.  
+- **Python** → análise e manipulação de dados com Pandas, NumPy e visualizações com Matplotlib/Seaborn.   
 - **Jupyter Notebook** → ambiente para organizar código e análises passo a passo.  
 - **Excel** → base de dados utilizada no projeto.  
 
@@ -49,7 +47,7 @@ A base `CARDIO_BASE.csv` contém informações clínicas e hábitos de vida dos 
 ### 1. Pré-processamento
 - Conversão de tipos (`height`, `weight` → float).  
 - Tratamento de valores nulos em `weight` (24 registros preenchidos com a média).  
-- **[Tratamento de outliers](ca://s?q=Detalhar_tratamento_de_outliers)** em `height` (140–220 cm) e `weight` (40–200 kg).  
+- Tratamento de outliers em `height` (140–220 cm) e `weight` (40–200 kg).  
 - Conversão de variáveis categóricas (`cholesterol`, `gluc`) em dummies.  
 - Manutenção das variáveis binárias (`smoke`, `alco`, `active`, `cardio_disease`).  
 

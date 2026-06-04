@@ -1,0 +1,39 @@
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de dados do Projeto 27
+CARDIO_BASE.csv
+CARDIO_BASE_TRATADA.csv
+
+# Outros formatos de dados
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# Modelos treinados
+*.pkl
+*.joblib
+*.h5
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais
+*.env
+
+# Arquivos de IDE
+.vscode/
+.idea/

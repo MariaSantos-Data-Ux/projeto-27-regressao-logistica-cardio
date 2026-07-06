@@ -18,14 +18,13 @@ Este projeto tem como objetivo desenvolver um modelo de **Regressão Logística*
 
 ---
 
-## Tecnologias
+## 🚀 Tecnologias
 
 - **Python** → análise e manipulação de dados com Pandas, NumPy e visualizações com Matplotlib/Seaborn.   
 - **Jupyter Notebook** → ambiente para organizar código e análises passo a passo.  
 - **Excel** → base de dados utilizada no projeto.  
 
 ---
-
 ##  Base de Dados
 A base `CARDIO_BASE.csv` contém informações clínicas e hábitos de vida dos pacientes:
 
